@@ -3,7 +3,7 @@ import { Col, Container, Card, CardText, CardTitle, CardBody, CardImg, CardSubti
 import {Link} from "react-router-dom"
 
 
-const AlbumPage = () => {
+const HomePage = () => {
   return (
     <div>
          <Container className='d-flex justify-content-center'>
@@ -26,4 +26,4 @@ const AlbumPage = () => {
   )
 }
 
-export default AlbumPage
+export default HomePage
